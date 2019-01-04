@@ -1,8 +1,9 @@
 ﻿
-.name-title {
-    background-image:url(WebsiteBackground.jpeg);
+#introduction {
+    background-image: url(WebsiteBackground.jpeg);
     background-size: cover;
     text-align: center;
+
 }
 
 .col {
@@ -15,7 +16,8 @@
     font-weight: bold;
     color: ghostwhite;
 }
-.about{
-   
+.homeSection{
+   height: 100%;
+   width: 100%;
 }
 
